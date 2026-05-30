@@ -14,7 +14,7 @@ With the tech industry experiencing massive shifts, I chose to analyze the Tech 
 * **UI/UX Design:**  Executive F-pattern layout.
 
 ### 💡 Key Insights
-1. **The AI Impact:** AI Automation is driving a massive chunk (over 22%), but it is simultaneously creating demand elsewhere.
+1. **The AI Impact:** AI Automation is driving a massive chunk, but it is simultaneously creating demand for opportunities elsewhere.
 2. **Where the Jobs Are:** While legacy roles are seeing cuts, Data Science and ML Engineering open roles are spiking.
 3. **The Balance:** Layoffs and hiring are happening at the exact same time, it's a talent *shift*, not just a talent *loss*.
 
