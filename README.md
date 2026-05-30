@@ -3,7 +3,7 @@
 ### Project Overview
 With the tech industry experiencing massive shifts, I chose to analyze the Tech Job Market. I took a raw dataset of workforce trends from **Kaggle** and built a custom Power BI dashboard to contrast layoff volumes with open hiring roles.
 
-![Dashboard Preview](Power BI Tech Job Market Trends Screenshot.png)
+![Dashboard Preview](PBI_Tech_Job_Market_Trends_1.png)
 
 ### 🌟 View the Dashboard
 **[Click here to view the full Dashboard PDF](layoff_hiring.pdf)**
