@@ -16,4 +16,4 @@ With the tech industry experiencing massive shifts, I chose to analyze the Tech 
 3. **The Balance:** Layoffs and hiring are happening at the exact same time, it's a talent *shift*, not just a talent *loss*.
 
 ### 📂 Explore the Code
-If you want to view the raw data, download the `.pbix` and dataset files included in this repository and open them in Power BI Desktop.
+If you want to view the interactive dashboard and data model, download the .pbix file included in this repository and open it in Power BI Desktop
