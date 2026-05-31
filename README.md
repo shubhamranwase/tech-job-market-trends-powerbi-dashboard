@@ -11,7 +11,7 @@ With the tech industry experiencing massive shifts, I chose to analyze the Tech 
 
 ### 🛠️ Tools & Techniques Used
 * **Data Visualization:** Power BI
-* **UI/UX Design:**  Executive F-pattern layout.
+* **UI/UX Design:**  Modular Grid Layout.
 
 ### 💡 Key Insights
 1. **The AI Impact:** AI Automation is driving a massive chunk, but it is simultaneously creating demand for opportunities elsewhere.
